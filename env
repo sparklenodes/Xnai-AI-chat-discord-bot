@@ -1,0 +1,5 @@
+DISCORD_BOT_TOKEN="MTI1NzMyOTc5NDgwNzIzNDY5MQ.GJwxIr.vqwlOvTJDuDsy6eZ9BYabmVvHT5V6sTUxsunfg" # discord.dev
+DISCORD_CLIENT_ID="1257329794807234691" # discord.dev
+LLM_API="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" # take it from groq.com
+DATABASE="JSON" # JSON | MOGNO
+MOGNO="" # MongoDB url 
